@@ -1,5 +1,3 @@
-# CLIMA
-A modern Weather app
 
 # Clima
 Learn to make iOS Apps | Project Stub | (Swift 3.0/Xcode 8) - Clima App
